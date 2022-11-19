@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/BekkerV8/JavaS-7.2#readme",
   "dependencies": {
-    "eslint": "^8.28.0",
-    "prettier": "^2.7.1"
+    "eslint": "^8.28.0"
   }
 }
